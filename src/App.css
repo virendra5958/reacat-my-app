@@ -1,0 +1,32 @@
+body{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+}
+.App{
+  min-height: 500px;
+display: flex;
+flex-direction: column;
+max-width: 600px;
+background: #ee7b7b;
+
+padding: 10px;
+text-align: center;
+}
+.App-header{
+  background-color: rgb(246, 246, 238);
+  min-width:500px;
+height: 80px;
+
+}
+.App{
+  text-align: left;
+}
+h1{
+  text-align: center;
+}
+a{
+  margin-left: 20px;
+}
